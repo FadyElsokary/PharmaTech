@@ -1,0 +1,81 @@
+{
+  "app": {
+    "name": "فارماتك",
+    "welcome": "مرحباً بك في فارماتك",
+    "subtitle": "نظام إدارة الصيدليات المتكامل"
+  },
+  "common": {
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "add": "إضافة",
+    "search": "بحث",
+    "filter": "فلتر",
+    "back": "رجوع",
+    "loading": "جاري التحميل...",
+    "noData": "لا توجد بيانات",
+    "confirm": "تأكيد",
+    "yes": "نعم",
+    "no": "لا",
+    "actions": "إجراءات",
+    "close": "إغلاق",
+    "view": "عرض",
+    "details": "التفاصيل"
+  },
+  "modules": {
+    "inventory": "إدارة المخزون",
+    "purchases": "إدارة المشتريات والموردين",
+    "sales": "المبيعات والعملاء",
+    "payments": "المدفوعات والمقبوضات"
+  },
+  "inventory": {
+    "title": "إدارة المخزون",
+    "addProduct": "إضافة منتج جديد",
+    "editProduct": "تعديل المنتج",
+    "productDetails": "تفاصيل المنتج",
+    "barcode": "الباركود",
+    "productName": "اسم المنتج",
+    "category": "الفئة",
+    "quantity": "الكمية",
+    "unitType": "نوع الوحدة",
+    "costPrice": "سعر التكلفة",
+    "sellingPrice": "سعر البيع",
+    "reorderLevel": "حد إعادة الطلب",
+    "description": "الوصف",
+    "expiryDate": "تاريخ الانتهاء",
+    "manufactureDate": "تاريخ الإنتاج",
+    "batchNumber": "رقم الدفعة",
+    "location": "موقع التخزين",
+    "lowStock": "مخزون منخفض",
+    "outOfStock": "نفذ من المخزون",
+    "inStock": "متوفر",
+    "totalProducts": "إجمالي المنتجات",
+    "selectCategory": "اختر الفئة",
+    "enterBarcode": "أدخل الباركود",
+    "enterProductName": "أدخل اسم المنتج",
+    "enterDescription": "أدخل الوصف",
+    "deleteConfirm": "هل أنت متأكد من حذف هذا المنتج؟",
+    "productAdded": "تم إضافة المنتج بنجاح",
+    "productUpdated": "تم تحديث المنتج بنجاح",
+    "productDeleted": "تم حذف المنتج بنجاح",
+    "errorLoading": "حدث خطأ في تحميل البيانات",
+    "errorSaving": "حدث خطأ في حفظ البيانات",
+    "requiredField": "هذا الحقل مطلوب",
+    "invalidNumber": "يجب إدخال رقم صحيح"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "quickAccess": "الوصول السريع",
+    "statistics": "الإحصائيات",
+    "recentActivity": "النشاط الأخير"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "inventory": "المخزون",
+    "purchases": "المشتريات",
+    "sales": "المبيعات",
+    "payments": "المدفوعات",
+    "settings": "الإعدادات"
+  }
+}

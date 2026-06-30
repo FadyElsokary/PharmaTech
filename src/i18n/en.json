@@ -1,0 +1,81 @@
+{
+  "app": {
+    "name": "PharmaTech",
+    "welcome": "Welcome to PharmaTech",
+    "subtitle": "Integrated Pharmacy Management System"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "filter": "Filter",
+    "back": "Back",
+    "loading": "Loading...",
+    "noData": "No data available",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "actions": "Actions",
+    "close": "Close",
+    "view": "View",
+    "details": "Details"
+  },
+  "modules": {
+    "inventory": "Inventory Management",
+    "purchases": "Purchases & Suppliers Management",
+    "sales": "Sales & Customers",
+    "payments": "Payments & Receipts"
+  },
+  "inventory": {
+    "title": "Inventory Management",
+    "addProduct": "Add New Product",
+    "editProduct": "Edit Product",
+    "productDetails": "Product Details",
+    "barcode": "Barcode",
+    "productName": "Product Name",
+    "category": "Category",
+    "quantity": "Quantity",
+    "unitType": "Unit Type",
+    "costPrice": "Cost Price",
+    "sellingPrice": "Selling Price",
+    "reorderLevel": "Reorder Level",
+    "description": "Description",
+    "expiryDate": "Expiry Date",
+    "manufactureDate": "Manufacture Date",
+    "batchNumber": "Batch Number",
+    "location": "Storage Location",
+    "lowStock": "Low Stock",
+    "outOfStock": "Out of Stock",
+    "inStock": "In Stock",
+    "totalProducts": "Total Products",
+    "selectCategory": "Select Category",
+    "enterBarcode": "Enter Barcode",
+    "enterProductName": "Enter Product Name",
+    "enterDescription": "Enter Description",
+    "deleteConfirm": "Are you sure you want to delete this product?",
+    "productAdded": "Product added successfully",
+    "productUpdated": "Product updated successfully",
+    "productDeleted": "Product deleted successfully",
+    "errorLoading": "Error loading data",
+    "errorSaving": "Error saving data",
+    "requiredField": "This field is required",
+    "invalidNumber": "Please enter a valid number"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "quickAccess": "Quick Access",
+    "statistics": "Statistics",
+    "recentActivity": "Recent Activity"
+  },
+  "navigation": {
+    "home": "Home",
+    "inventory": "Inventory",
+    "purchases": "Purchases",
+    "sales": "Sales",
+    "payments": "Payments",
+    "settings": "Settings"
+  }
+}
