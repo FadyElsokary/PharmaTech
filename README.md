@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 PharmaTech - نظام إدارة الصيدليات
 
 <div align="center">
@@ -281,3 +282,7 @@ PharmaTech/
 **صُنع بـ ❤️ للصيدليات في جميع أنحاء العالم**
 
 </div>
+=======
+# PharmaTech
+Pharma Tech System
+>>>>>>> b350fb817548c23f4078f24d410e1e1587354211
