@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # 🏥 PharmaTech - نظام إدارة الصيدليات
 
 <div align="center">
 
-![PharmaTech Logo](https://via.placeholder.com/150x150/2563eb/ffffff?text=PharmaTech)
+![PharmaTech Logo](PharmaTech-Logo.png)
 
 **نظام إدارة صيدليات متكامل | Integrated Pharmacy Management System**
 
