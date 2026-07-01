@@ -110,7 +110,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## <a name="arabic"></a>🇸🇦 العربية
+## <a name="arabic"></a>🇪🇬 العربية
 
 ### 📋 نظرة عامة
 
